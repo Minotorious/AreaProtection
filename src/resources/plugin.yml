@@ -1,0 +1,8 @@
+name: AreaProtection
+main: AreaProtection.AreaProtectionMain
+version: 1.0.0
+author: Minotorious
+team:
+description: "Area Protection plugin"
+license:
+website:
